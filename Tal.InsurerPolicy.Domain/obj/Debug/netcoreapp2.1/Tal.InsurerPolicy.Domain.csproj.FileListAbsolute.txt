@@ -1,0 +1,6 @@
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Domain\bin\Debug\netcoreapp2.1\Tal.InsurerPolicy.Domain.deps.json
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Domain\bin\Debug\netcoreapp2.1\Tal.InsurerPolicy.Domain.dll
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Domain\obj\Debug\netcoreapp2.1\Tal.InsurerPolicy.Domain.csprojAssemblyReference.cache
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Domain\obj\Debug\netcoreapp2.1\Tal.InsurerPolicy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Domain\obj\Debug\netcoreapp2.1\Tal.InsurerPolicy.Domain.AssemblyInfoInputs.cache
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Domain\obj\Debug\netcoreapp2.1\Tal.InsurerPolicy.Domain.AssemblyInfo.cs

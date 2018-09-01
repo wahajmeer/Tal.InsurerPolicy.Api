@@ -1,0 +1,14 @@
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Api\bin\Debug\netcoreapp2.1\Tal.InsurerPolicy.Api.deps.json
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Api\bin\Debug\netcoreapp2.1\Tal.InsurerPolicy.Api.runtimeconfig.json
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Api\bin\Debug\netcoreapp2.1\Tal.InsurerPolicy.Api.runtimeconfig.dev.json
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Api\bin\Debug\netcoreapp2.1\Tal.InsurerPolicy.Api.dll
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Api\obj\Debug\netcoreapp2.1\Tal.InsurerPolicy.Api.csprojAssemblyReference.cache
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Api\obj\Debug\netcoreapp2.1\Tal.InsurerPolicy.Api.csproj.CoreCompileInputs.cache
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Api\obj\Debug\netcoreapp2.1\Tal.InsurerPolicy.Api.RazorAssemblyInfo.cache
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Api\obj\Debug\netcoreapp2.1\Tal.InsurerPolicy.Api.RazorAssemblyInfo.cs
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Api\obj\Debug\netcoreapp2.1\Tal.InsurerPolicy.Api.AssemblyInfoInputs.cache
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Api\obj\Debug\netcoreapp2.1\Tal.InsurerPolicy.Api.AssemblyInfo.cs
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Api\obj\Debug\netcoreapp2.1\Tal.InsurerPolicy.Api.RazorTargetAssemblyInfo.cache
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Api\bin\Debug\netcoreapp2.1\Tal.InsurerPolicy.Api.pdb
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Api\obj\Debug\netcoreapp2.1\Tal.InsurerPolicy.Api.dll
+C:\Users\WahajAli\Desktop\TAL\InsurancePolicy\Tal.InsurerPolicy.Api\Tal.InsurerPolicy.Api\obj\Debug\netcoreapp2.1\Tal.InsurerPolicy.Api.pdb
